@@ -1,11 +1,7 @@
 class Solution {
     public int maxArea(int[] arr) {
-        int left=0;
+        int left=0,emptbars,minH=0,maxWater=0;
         int right=arr.length-1;
-        int emptbars;
-        int minH=0;
-        int maxWater=0;
-
         while(left<right){
             emptbars=right-left;
             minH=Math.min(arr[left],arr[right]);
@@ -14,8 +10,6 @@ class Solution {
                 left++;
             else 
                 right--;
-            
-            
         }
         return maxWater;
     }
