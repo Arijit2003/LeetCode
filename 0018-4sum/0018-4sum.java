@@ -23,7 +23,7 @@ class Solution {
         HashSet<List<Integer>> hSet=new HashSet<>();
         ArrayList<Integer> arrLst;
         int sum=target,c_sum=0,j,k;
-        for(int i=p;i<nums.length;i++){
+        for(int i=p;i<=nums.length-3;i++){
             if((long)((long)sum-nums[i])<Integer.MIN_VALUE || (long)((long)sum-         
                 nums[i])>Integer.MAX_VALUE){
                 List<List<Integer>>res=new ArrayList<>();
