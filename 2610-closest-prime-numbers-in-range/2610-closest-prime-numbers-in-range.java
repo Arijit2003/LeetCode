@@ -24,6 +24,7 @@ class Solution {
         dp[2]=true; dp[3]=true; int j=2;
         for(int i=2;i*i<=n;i++){
             j=2;
+            if(dp[i]==true)
             while(i*j<=n){
                 dp[i*j]=false;
                 j++;
