@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arijit2003/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Arijit2003/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arijit2003/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
