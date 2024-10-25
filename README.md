@@ -55,4 +55,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arijit2003/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
