@@ -61,6 +61,7 @@
 ## Database
 |  |
 | ------- |
+| [1415-students-and-examinations](https://github.com/Arijit2003/LeetCode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arijit2003/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Breadth-First Search
 |  |
