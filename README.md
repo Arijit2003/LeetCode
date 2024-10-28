@@ -48,6 +48,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Arijit2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Arijit2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -56,6 +57,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Arijit2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Arijit2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -64,6 +66,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Arijit2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Arijit2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Database
 |  |
@@ -77,5 +80,6 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arijit2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Arijit2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
