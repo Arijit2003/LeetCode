@@ -83,6 +83,7 @@
 | [1415-students-and-examinations](https://github.com/Arijit2003/LeetCode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arijit2003/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Arijit2003/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1877-find-followers-count](https://github.com/Arijit2003/LeetCode/tree/master/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/Arijit2003/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arijit2003/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Breadth-First Search
