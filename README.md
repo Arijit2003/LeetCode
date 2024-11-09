@@ -87,6 +87,7 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Arijit2003/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/Arijit2003/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Arijit2003/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Arijit2003/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Arijit2003/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arijit2003/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Breadth-First Search
