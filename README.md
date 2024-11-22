@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Arijit2003/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Arijit2003/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -107,6 +108,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Arijit2003/LeetCode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
