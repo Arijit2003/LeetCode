@@ -33,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
