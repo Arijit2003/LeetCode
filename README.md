@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arijit2003/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Linked List
@@ -102,4 +103,12 @@
 | [0199-binary-tree-right-side-view](https://github.com/Arijit2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Arijit2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Arijit2003/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
