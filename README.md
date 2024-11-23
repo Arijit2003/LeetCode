@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Arijit2003/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Arijit2003/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -112,6 +113,7 @@
 | [0031-next-permutation](https://github.com/Arijit2003/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
