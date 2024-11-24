@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arijit2003/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Arijit2003/LeetCode/tree/master/0050-powx-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arijit2003/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arijit2003/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Arijit2003/LeetCode/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
