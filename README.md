@@ -117,6 +117,7 @@
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Arijit2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arijit2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arijit2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Arijit2003/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arijit2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 | [0056-merge-intervals](https://github.com/Arijit2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arijit2003/LeetCode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Arijit2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
