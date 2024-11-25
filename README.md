@@ -129,6 +129,7 @@
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arijit2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +164,20 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arijit2003/LeetCode/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
