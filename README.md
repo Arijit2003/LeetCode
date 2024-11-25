@@ -28,6 +28,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Arijit2003/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arijit2003/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Arijit2003/LeetCode/tree/master/0062-unique-paths) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arijit2003/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Arijit2003/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
@@ -155,4 +157,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Arijit2003/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
