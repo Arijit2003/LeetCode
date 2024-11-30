@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arijit2003/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Arijit2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arijit2003/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
@@ -131,6 +132,7 @@
 | [0075-sort-colors](https://github.com/Arijit2003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arijit2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Arijit2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arijit2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
