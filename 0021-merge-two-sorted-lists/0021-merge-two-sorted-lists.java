@@ -10,48 +10,39 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode res=null,temp=null;
+        if(list1==null)return list2;
+        else if(list2==null)return list1;
+        
+        ListNode head=null,temp=null;
+        if(list1.val<=list2.val){
+            head=list1;
+            list1=list1.next;
+        }else{
+            head=list2;
+            list2=list2.next;
+        }
+        temp = head;
         while(list1!=null && list2!=null){
             if(list1.val<=list2.val){
-                if(res==null){
-                    res=new ListNode(list1.val);
-                    temp=res;
-                }else{
-                    temp.next=new ListNode(list1.val);
-                    temp=temp.next;
-                }
+                temp.next=list1;
+                temp=temp.next;
                 list1=list1.next;
             }else{
-                if(res==null){
-                    res=new ListNode(list2.val);
-                    temp=res;
-                }else{
-                    temp.next=new ListNode(list2.val);
-                    temp=temp.next;
-                }
+                temp.next=list2;
+                temp=temp.next;
                 list2=list2.next;
             }
         }
         while(list1!=null){
-            if(res==null){
-                res=new ListNode(list1.val);
-                temp=res;
-            }else{
-                temp.next=new ListNode(list1.val);
-                temp=temp.next;
-            }
+            temp.next=list1;
+            temp=temp.next;
             list1=list1.next;
         }
         while(list2!=null){
-            if(res==null){
-                res=new ListNode(list2.val);
-                temp=res;
-            }else{
-                temp.next=new ListNode(list2.val);
-                temp=temp.next;
-            }
-            list2=list2.next;  
+            temp.next=list2;
+            temp=temp.next;
+            list2=list2.next;
         }
-        return res;
+        return head;
     }
 }
