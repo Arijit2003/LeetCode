@@ -171,6 +171,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Arijit2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/Arijit2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
