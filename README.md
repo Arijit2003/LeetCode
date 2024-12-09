@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arijit2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/Arijit2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/Arijit2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arijit2003/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Arijit2003/LeetCode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Arijit2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Arijit2003/LeetCode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
@@ -256,6 +258,7 @@
 | [0039-combination-sum](https://github.com/Arijit2003/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arijit2003/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Arijit2003/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Arijit2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
