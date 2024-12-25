@@ -185,6 +185,7 @@
 | [0455-assign-cookies](https://github.com/Arijit2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arijit2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arijit2003/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arijit2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/Arijit2003/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arijit2003/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
