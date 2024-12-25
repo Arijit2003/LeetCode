@@ -1,38 +1,23 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int arr[]=new int[(nums1.length)+(nums2.length)];
-        int n1=0,n2=0;
-        for(int k=0;k<arr.length;k++){
-            if((n1<=nums1.length-1)&&(n2<=nums2.length-1)){
-                if(nums1[n1]<nums2[n2]){
-                    arr[k]=nums1[n1];
-                    n1++;
-                }
-                else if(nums1[n1]==nums2[n2]){
-                    arr[k]=nums1[n1];
-                    arr[k+1]=nums2[n2];
-                    n1++;
-                    n2++;
-                    k++;
-                }
-                else{
-                    arr[k]=nums2[n2];
-                    n2++;
-                }
-            }else if(n1>nums1.length-1){
-                arr[k]=nums2[n2];
-                n2++;
-            }else if(n2>nums2.length-1){
-                arr[k]=nums1[n1];
-                n1++;
+        int n1=nums1.length,n2=nums2.length;
+        int low=0,mid,mid2,high=n1;
+        if(n2<n1)return findMedianSortedArrays(nums2,nums1);
+        while(low<=high){
+            mid=(low+high)/2;
+            mid2=(n1+n2+1)/2-mid;
+            int l1=(mid==0)?Integer.MIN_VALUE:nums1[mid-1];
+            int r1=(mid==n1)?Integer.MAX_VALUE:nums1[mid];
+            int l2=(mid2==0)?Integer.MIN_VALUE:nums2[mid2-1];
+            int r2=(mid2==n2)?Integer.MAX_VALUE:nums2[mid2];
+
+            if(l1<=r2 && l2<=r1){
+                if((n1+n2)%2!=0)return (double)Math.max(l1,l2);
+                else return (Math.max(l1,l2) + Math.min(r1,r2))/2.0;
             }
-                
+            if(l1>r2)high=mid-1;
+            else low=mid+1;
         }
-        int len=arr.length;
-        if(len%2==0){
-            return ((arr[(len/2)]+arr[(len/2)-1])/2.0);
-        }else{
-            return arr[len/2];
-        }
+        return 0.0;
     }
 }
