@@ -98,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/Arijit2003/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Arijit2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Arijit2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -302,6 +303,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arijit2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arijit2003/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arijit2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
