@@ -50,6 +50,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Arijit2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arijit2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arijit2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Arijit2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Arijit2003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -219,6 +220,7 @@
 | [0169-majority-element](https://github.com/Arijit2003/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arijit2003/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arijit2003/LeetCode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Arijit2003/LeetCode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -285,8 +287,17 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arijit2003/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arijit2003/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Arijit2003/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
