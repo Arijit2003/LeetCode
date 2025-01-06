@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arijit2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Arijit2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Arijit2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Arijit2003/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arijit2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arijit2003/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arijit2003/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
