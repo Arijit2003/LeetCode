@@ -1,73 +1,36 @@
 class Solution {
-    public  char[]myStack;
-    public  int stackIndex=-1;
-
-    public  void push(char c){
-        this.stackIndex++;
-        this.myStack[this.stackIndex]=c;
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        HashSet<Character> char_open = new HashSet<>();
+        char_open.add('('); char_open.add('{'); char_open.add('[');
+        for(char ch:s.toCharArray()){
+            if(char_open.contains(ch))stack.push(ch);
+            else if(!check(ch,stack))return false;
+        }
+        if(!stack.isEmpty())return false;
+        return true;
     }
-    public  void pop(){
-        this.stackIndex--;
-
-    }
-    
-    public  boolean isValid(String s){
-        this.myStack=new char[s.length()+1];
-        for(int i=0;i<s.length();i++){
-            if(this.opening(s.charAt(i))){
-                this.push(s.charAt(i));
-            }else{
-                try{
-                    if(this.match(this.myStack[this.stackIndex], s.charAt(i)))
-                        this.pop();
-                    else{
-                        return false;
-                    }
-                }catch(ArrayIndexOutOfBoundsException e){
-                    return false;
-                }
-                
+    public boolean check(char ch,Stack<Character>stack){
+        switch(ch){
+            case ')':{
+                while(!stack.isEmpty() &&stack.peek()!='(') return false;
+                if(stack.isEmpty())return false;
+                stack.pop();
+                break;
+            }
+            case '}':{
+                if(!stack.isEmpty() &&stack.peek()!='{') return false;
+                if(stack.isEmpty())return false;
+                stack.pop();
+                break;
+            }
+            case ']':{
+                if(!stack.isEmpty() &&stack.peek()!='[')return false;
+                if(stack.isEmpty())return false;
+                stack.pop();
+                break;
             }
         }
-        if(this.stackIndex==-1){
-            return true;
-        }else{
-
-            return false;
-        }
+        return true;
     }
-    public boolean opening(char c){
-        switch (c) {
-            case '(':{
-                return true;
-            }
-            case '{':{
-                return true;
-            }
-            case '[':{
-                return true;
-            }
-        
-            default:{
-                return false;
-            }
-        }
-    }
-
-    public boolean match(char start,char end){
-        if(start=='(' && end==')'){
-            return true;
-        }else if(start=='[' && end==']'){
-            return true;
-        }else if(start=='{' && end=='}'){
-            return true;
-        }else{
-            return false;
-        }
-    }
-
-
-
-
-
 }
